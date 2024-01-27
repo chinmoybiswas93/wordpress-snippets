@@ -1,0 +1,39 @@
+<script>
+  jQuery(document).ready(function ($) {
+    // Get references to the email input field and the submit button
+    var $emailInput = $("#wpforms-135-field_2");
+    var $submitButton = $(
+      ".join-now-container .wpforms-page-button.wpforms-page-next"
+    );
+    var $resultContainer = $("div#wpforms-135-field_81-container");
+
+    // Attach an event listener for the blur event on the email input field
+    $emailInput.on("blur", function () {
+      $submitButton.prop("disabled", true);
+      // Get the entered email value
+      var userEmail = $(this).val();
+
+      // Perform AJAX request to check if the email exists
+      $.ajax({
+        type: "POST",
+        url: "/wp-admin/admin-ajax.php",
+        data: {
+          action: "check_user_email",
+          email: userEmail,
+        },
+        success: function (response) {
+          // Handle the response from the server
+          if (response.exists) {
+            // Email exists, set display property to "block !important"
+            $resultContainer.css("display", "block");
+            $submitButton.prop("disabled", true);
+          } else {
+            // Email does not exist, set display property to "none"
+            $resultContainer.css("display", "none");
+            $submitButton.prop("disabled", false);
+          }
+        },
+      });
+    });
+  });
+</script>
