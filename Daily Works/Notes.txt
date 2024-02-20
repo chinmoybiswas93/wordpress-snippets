@@ -1,0 +1,218 @@
+** Page Changes with transalation
+1. https://erp.seopage1.net/account/tasks/4335
+----------------------------------------------------
+Client: Mazen A.  https://andreas.growx.tech/
+-------------------------------------------------
+- Updated Header - https://prnt.sc/nPV-cJp8rjwh\
+- Added partners to home - https://prnt.sc/gyiXF9eiou8Z
+- added Partners Page - https://prnt.sc/FzoPQX8NfqQs
+- Added Request a quote popup - https://prnt.sc/3evdUE8MrTyN
+
+
+** Product All Sub-Categories Page
+3. https://erp.seopage1.net/account/tasks/4018
+--------------------------------------------------
+Client: Prasad N. https://prasadn.360elevate.co/
+--------------------------------------------------
+- Updated Breadcrumb and prermalinks - https://prnt.sc/fVIy7TGasgw-
+- Updated Breadcrumb links- https://prnt.sc/5XtmBMXrhSAc https://prnt.sc/4hNrTR5Yd0lX
+
+- Added Custom Slider For Custom Post time Plugin - https://prnt.sc/RZVrThZdgvbZ - https://prnt.sc/RZVrThZdgvbZ
+
+
+** Single Page Variation Bug Fix
+1. https://erp.seopage1.net/account/tasks/4307
+------------------------------------------------------
+Client: Kons-tan-ti-nos C. - https://iggy.gr/product/van-gogh-almond-blossom-premium-poster/
+-----------------------------------------------------
+- https://prnt.sc/i80AkM4ykt1c - Udated Last Requiremtns
+- Removed Mobile Popup - https://prnt.sc/DDKwfczKLfsQ
+- Updated Border Colr - https://prnt.sc/mda6chkoQMge
+
+https://neild.360elevate.co/
+CLient: Neil D
+
+- Random access key generate and validation , rediection
+
+Daily Summary: Chinmoy Biswas - 27/01/2024
+===========================================================
+Mazen A. -  andreas.growx.tech/ - Migration
+Konstantinos C. - iggy.gr/product/van-gogh-almond-blossom-premium-poster/ - Revision Changes
+Prasad N. prasadn.360elevate.co/ - Updated Breakcrumb
+
+Daily Summary: Chinmoy Biswas - 29/01/2024
+===========================================================
+Konstantinos C. - iggy.gr/product/van-gogh-almond-blossom-premium-poster/ - Completed Revisions
+Jan P. - testdomaintrading.net/ - Completed homepage, categories archive, single blog page.
+
+Daily Summary: Chinmoy Biswas - 30/01/2024
+===========================================================
+David L. - houstonreiki.com - New User, Login Url changed 
+Konstantinos C. - iggy.gr/product/premium-poster/ - Updated Price 
+Jan P. - testdomaintrading.net/ - Revisions - https://prnt.sc/rVop0BG1L1lz , 
+Lloyd R. - promoto.live - Host Time Zone, Email Template Check
+
+/***
+Fluent Booking Pro - Shakib Vai
+fluent-booking-pro/app/Services/Integrations/PaymentMethods/Stripe/Stripe.php
+fluent-booking-pro/app/Services/Integrations/PaymentMethods/BasePaymentMethod.php
+fluent-booking-pro/assets/public/js/stripe-checkout.js
+
+
+
+Daily Summary: Chinmoy Biswas - 31/01/2024
+===========================================================
+Jan P. - testdomaintrading.net/ - Home page Revisions
+Lloyd R. - (Independent) promoto.live - Fixed Email Template Issues (Phone Number sent to host when unpaid) - https://prnt.sc/cNWla0NVZw54
+Mazen A. - ssquare-solutions.com - Updated Revisons on doc - https://prnt.sc/i25SMDC_MIy5
+Leidy A. - Site analysis
+
+/*****
+Fluent Booking Pro
+EditorShortCodeParser.php
+\fluent-booking-pro\app\Services\EmailNotificationService.php
+
+
+
+Daily Summary: Chinmoy Biswas - 01/02/2024
+===========================================================
+Mazen A. - ssquare-solutions.com - Updated Revisons on doc - https://prnt.sc/i25SMDC_MIy5
+Konstantinos C. - iggy.gr/product/premium-poster/ - Updated Variation and solved the loading issues - screenrec.com/share/CGOdftp1SZ, font weight change, 
+Salekh A. salekha.360elevate.co/photos/ and / video-gallery/, https://prnt.sc/t1f3aSHmeAPU, /terms-policies/ - https://prnt.sc/tCe502_GoAAM
+
+8:00 - 8:58 - 0.58
+12:50 - 01:20 - 0.30 - https://prnt.sc/FWZXRdXfYNjo
+3:44 - 05:00 - 1:15 - 
+
+
+Chinmoy Biswas - Daily Summary: 02/02/2024
+===========================================================
+Jan P. - testdomaintrading.net/ - Market Cycle Page: Chart- https://prnt.sc/T_DjDXqNXaLI, Membership Pages Pages:(Membership Content - Footer Issue, Design), Membership Process: https://prnt.sc/xTq129u9nz4Y, Log-out redirect: https://prnt.sc/vGhr-IEiG3XH, Page restriction: https://prnt.sc/fkcOEQUzONm7
+
+
+Chinmoy Biswas - Daily Summary: 03/02/2024
+===========================================================
+Jan P. - testdomaintrading.net
+
+
+Chinmoy Biswas - Daily Summary: 05/02/2024
+===========================================================
+ministercoin. - ministercoin.360elevate.co - Header, Footer, Hero section, 
+https://prnt.sc/GNrNACcT5w4_
+about section 
+https://prnt.sc/v7qzhrDo386G
+features section
+https://prnt.sc/uL92negsdtu1
+Token & Utitiles section
+https://prnt.sc/XWBJPETMQ1Ta
+Timeline section
+https://prnt.sc/_45Jewm-Dye_
+FAQ section
+https://prnt.sc/hOA07O6HBV3R
+press 
+https://prnt.sc/rJN2Yo0FXgEo
+
+Fixed Mobile Header, Timeline responsiveness ( https://prnt.sc/P_c1mg_PsAO7 | https://prnt.sc/57K8EPApA83w )
+
+Changed all icons
+changed logo, favicon
+
+
+Chinmoy Biswas - Daily Summary: 06/02/2024
+===========================================================
+1. ministercoin. - pticoin.org - Fixed Mobile Header, Timeline responsiveness ( https://prnt.sc/P_c1mg_PsAO7 | https://prnt.sc/57K8EPApA83w )
+1. Matt G. - unknownlocations.com - 
+Issues: 
+Textdomain: Solved
+get_bloginfo() Issues - Used upadted functions
+Hide ammin dashboard - remvoed condition
+ini set - removeda
+Added  - Version: Text Domain: Tested up to: Requires PHP : License : License URI : Description
+
+Chinmoy Biswas - Daily Summary: 07/02/2024
+===========================================================
+1. Matt G. - unknownlocations.com - Updated JQuery, Updated Flex Slider, Worked on Functions.php, Worked on assets/js/Functions.js
+2. Stefanie M. - gxboahjq.elementor.cloud/commercial  - Resized 150 images with photoshop. added gallery (https://prnt.sc/bBIpDk5QItlC)
+
+** This website is made with custom code and there is a lot of errors in the Functions.php which is 4600 lines and assets/js/Functions.js is 3500 lines.
+In this files the previous developer used some outdated plugin functions like translate and in js they used old version jquery and slider type packages. 
+Need to manually check the errors and solve one by one which needs significant amount of time.
+
+** There is no previous design reference and websie archieve is empty. which is making the fixing process lengthy. 
+
+
+Chinmoy Biswas - Daily Summary: 08/02/2024
+===========================================================
+1. Benjamin B. - kali-majapahit.com Updated popup on desktop and mobile (https://prnt.sc/tE5rHrX8tb6a | https://prnt.sc/MYq8aKftmCWs)
+2. Leidy A. - plusgami.com - API Integration, Data Upload to CRM - ( https://prnt.sc/qlRdYBresPAJ | https://prnt.sc/NLPpGkS9FNuN | https://prnt.sc/PW-cm1kNIzWF | https://prnt.sc/5mWu5cSXwJB4 )
+3. Prasad N. - dhanbadinstruments.com - Fixed Loading Issues - (https://prnt.sc/c70A_mBBDufD) - Update Slider - https://prnt.sc/KCCiq1zfCoWv
+4. Stefanie M. - Added Gallery Images, Responsive Gallery Page  - https://prnt.sc/kUE7kXn4jFTa , https://prnt.sc/1bAiVltLhNYr
+
+Chinmoy Biswas - Daily Summary: 09/02/2024
+===========================================================
+1. Matt G. - unknownlocations.com - Fixed search bar, fixed menu, fixed 
+2. yordanki.360elevate.co/ - (erp.seopage1.net/account/tasks/4540 - out of erp )Added Form  
+3. Brendonr - brendonr-2nd.360elevate.co/ - Worked on homepage
+
+Chinmoy Biswas - Daily Summary: 10/02/2024
+===========================================================
+1. yordanki.360elevate.co/ - (Out of erp) erp.seopage1.net/account/tasks/4540 - Made form and calculations and design
+2. Migration Done - ajayad32c1765f9.wpcomstaging.com
+
+Chinmoy Biswas - Daily Summary: 12/02/2024
+===========================================================
+1. Brendonr - brendonr-2nd.360elevate.co/ - Header, Hero Carousel, Categories, Online doctor, Footer, Categories, Product Upload, Featured Product Section, Products Section (https://prnt.sc/QyklccHYkVnX | https://prnt.sc/G-cNUcjuC_x8 | https://prnt.sc/Tl3mONLn4mws | https://prnt.sc/tei6VY7p_p1R | https://prnt.sc/S88n1fDx5zam)
+2. Ahmed J.
+
+/product-category/weight-management/
+/product-category/kids-health/
+/product-category/blood-pressure-monitoring/
+/product-category/pain-management/
+/product-category/skincare/
+/product-category/travel-health/
+
+Chinmoy Biswas - Daily Summary: 13/02/2024
+===========================================================
+1. Brendonr - brendonr-2nd.360elevate.co/ - Updated Font, Colors,  and added /telehealth-doctor/ , blog category page ( https://prnt.sc/hudCDB0ERnXK | https://prnt.sc/o8uRgFmbGJd9 | https://prnt.sc/lXm_IrwyTuOF | https://prnt.sc/dV0ZlA3E-iQK | https://prnt.sc/_bapOAwwHs6z)
+2. Ahmed J. - Theme Setup, Header, Products ()
+
+Chinmoy Biswas - Daily Summary: 14/02/2024
+===========================================================
+1. Brendonr - 
+Category Archive Page - /category/asthma-and-allergies/ (https://prnt.sc/FhIyEot0n1ht), 
+Product categories page -/product-category/weight-management/ - (https://prnt.sc/5SH0bxrBnCqh) , 
+Single blog /how-to-create-healthy-habits/ - ( https://prnt.sc/VnbTaUs47XT- ),
+Single Product -/product/viagra-connect-50mg/ - ( https://prnt.sc/r0fG-evLEEbF )
+
+Chinmoy Biswas - Daily Summary: 15/02/2024
+===========================================================
+1. Brendonr - Updated Slider, Footer, ( https://prnt.sc/YsJwPsPGx8Ol )
+2. Ahmed J. - Updated Theme, Header, Style Ajax Search Pro (https://prnt.sc/d3bEhGOWoWLa | https://prnt.sc/HAC2ozeX4o0K | )
+3. Lidey -  plusgami.com
+
+Chinmoy Biswas - Daily Summary: 16/02/2024
+===========================================================
+1. Brendonr - Updated Slider, Footer, Header, Product Loop ( https://prnt.sc/YsJwPsPGx8Ol  )
+2. Ahmed J. - ABout section, products sectin, cta section, newsletter section, brands section  http://tinyurl.com/2yvm6ryo
+3. Lidey -  plusgami.com
+
+
+
+Chinmoy Biswas - Daily Summary: 17/02/2024
+===========================================================
+1. Brendonr - Updated Slider, Footer, Header, Product Loop ( https://prnt.sc/YsJwPsPGx8Ol  )
+2. Ahmed J. - ABout section, products sectin, cta section, newsletter section, brands section  http://tinyurl.com/2yvm6ryo
+3. Lidey -  plusgami.com
+
+
+
+Chinmoy Biswas - Daily Summary: 18/02/202.24
+===========================================================
+1. Martin S. platinumpartner.com.au -  Added filter, calender position, design issues https://prnt.sc/gvT5kDA_48IP
+2. Renukad  - renukad.360elevate.co/ - Worked on single post page (https://prnt.sc/E-ViL4RPMZk2)
+3. Ken L. - groupplansolutions.ca - Worked on services - https://prnt.sc/nJoBIGi-3_Lm
+
+
+Chinmoy Biswas - Daily Summary: 20/02/202.24
+===========================================================
+1. Ken L. - groupplansolutions.ca - Fixed See More issues and Formatted Descriptions, Resposive Issues ( https://prnt.sc/kF7zLCMxB4A6, https://prnt.sc/qqYMadIV4tco, https://prnt.sc/4W-hoMj-qG_3 )

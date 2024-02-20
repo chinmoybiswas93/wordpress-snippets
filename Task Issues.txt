@@ -1,0 +1,25 @@
+PM Issues
+============================================================================================
+- Theme Research (No Proper theme research, every task come with astra/hello elementor)
+- Plugin Research (Give plugin based on idea, no Proper research,  asking to search a suitable plugin)
+
+
+Maraz M. https://erp.seopage1.net/account/tasks/3704
+===========================================================
+-Task submitted after fully completing the design. https://prnt.sc/PI9Gqfum585G
+-Got revision which was not included this task and got no additional time. https://prnt.sc/eDTUsBi0Ku9D
+-After submitting the revision got another revision in the comment form client with no additional time. https://prnt.sc/m9-g_kKnWyE9
+
+
+Lloyrd: https://erp.seopage1.net/account/tasks/3929
+==========================================================
+- About the booking system 
+The referece booking is made by using a third party provider https://getsquire.com and No relative plugin is found to implement this bookig properly or closely.
+- Tried using Gravity form but the booking options and live summery addons is not working together. The main issue is to change the rider availability dynanically and show them in calender. 
+- Solved this with the help of Mr. Shakib creating a addon for Fluent Booking Pro
+
+
+Prasad N. https://erp.seopage1.net/account/tasks/4018
+===========================================================
+The Initial Task Descriptions were 2 page design which was followed properly and submittied. 
+Then the client revison came with full new requirements of Custom post type, fieds, custom single page, post loop, popup and form. The revisons was not related to the main task assigned to me. No plugin research for the task and Revison insturctions was unclear. 

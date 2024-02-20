@@ -1,0 +1,150 @@
+.fluentform .ff-el-input--label {
+    margin-bottom: 12px;
+}
+
+.fluentform-widget-wrapper .frm-fluent-form .ff-step-header {
+    margin-bottom: 30px;
+}
+
+.fluentform .ff-el-group {
+    margin-bottom: 25px;
+}
+
+/* .fluentform .ff-step-titles li:after {
+    background: #ff1818;
+} */
+
+.fluentform .kind-of-home-container.ff-el-group .ff-el-form-check {
+    padding-right: 5px;
+}
+
+.fluentform label,
+.fluentform legend {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.fluentform .kind-of-home-container label.ff-el-image-input-src {
+    height: 242px;
+    width: 256px;
+}
+
+.fluentform .ff_el_checkable_photo_holders {
+    margin-bottom: 0;
+}
+
+.fluentform input[type="text"],
+.fluentform input[type="number"],
+.fluentform input[type="email"],
+.fluentform input[type="url"],
+.fluentform input[type="password"],
+.fluentform input[type="search"],
+.fluentform input[type=reset],
+.fluentform input[type=tel],
+.fluentform input[type=date],
+.fluentform select,
+.fluentform textarea {
+    font-size: 18px;
+}
+
+/* prev next button */
+.ff-default .ff-btn-secondary:not(.ff_btn_no_style) {
+    background-color: #2460AC;
+    border-color: #2460AC;
+    color: #fff;
+    width: 49%;
+}
+
+
+.fluentform .ff-step-t-container.ff-inner_submit_container .ff-t-cell {
+    width: 49%;
+}
+
+.ff-default .ff-step-t-container.ff-inner_submit_container .ff-btn-secondary:not(.ff_btn_no_style) {
+    width: 100%;
+}
+
+.ff-btn.ff-btn-prev.ff-btn-secondary,
+.ff-btn.ff-btn-next.ff-btn-secondary {
+    padding-top: 18px;
+    padding-bottom: 18px;
+    background-color: #2460AC !important;
+    border-radius: 7px;
+    color: #fff;
+}
+
+
+.fluentform .kind-of-home-container label.ff-el-image-input-src {
+    border-radius: 7px;
+    margin-bottom: 10px;
+}
+
+.fluentform label.ff-el-image-input-src[style="background-image: url()"] {
+    height: 0;
+}
+
+.fluentform .brand-prefer-conntainer label.ff-el-image-input-src {
+    background-position: 19%;
+    background-size: contain;
+    height: 30px;
+    width: 105px;
+    margin-bottom: 10px;
+}
+
+/* steps design */
+
+.fluentform .ff-step-titles li.ff_active:before,
+.fluentform .ff-step-titles li.ff_completed:before {
+    background: #2460AC;
+    border: 1px solid transparent;
+    color: #fff;
+}
+
+.fluentform .ff-step-titles li:before,
+.fluentform .ff-step-titles li:after {
+    display: none;
+}
+
+.custom-step {
+    background: #ff000000;
+    display: flex;
+    width: 100px;
+    height: 100px;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 12px;
+    border: 1px solid #2460AC;
+}
+
+.active .custom-step,
+.ff_active .custom-step,
+.ff_completed .custom-step {
+    background: #2460AC !important;
+}
+
+.active .custom-step svg path,
+.ff_active .custom-step svg path,
+.ff_completed .custom-step svg path {
+    fill: #ffffff !important;
+}
+
+
+.ff-step-titles li span {
+    display: flex;
+    justify-content: center;
+}
+
+.ff-step-titles li:not(:last-child):nth-child(odd) span:after {
+    content: url('https://yordanki.360elevate.co/wp-content/uploads/2024/02/Vector-down.png');
+    position: absolute;
+    top: 38%;
+    left: 80%;
+}
+
+.ff-step-titles li:not(:last-child):nth-child(even) span:after {
+    content: url('https://yordanki.360elevate.co/wp-content/uploads/2024/02/Vector-up.png');
+    position: absolute;
+    top: 38%;
+    left: 80%;
+}
