@@ -206,13 +206,68 @@ Chinmoy Biswas - Daily Summary: 17/02/2024
 
 
 
-Chinmoy Biswas - Daily Summary: 18/02/202.24
+Chinmoy Biswas - Daily Summary: 18/02/2024
 ===========================================================
 1. Martin S. platinumpartner.com.au -  Added filter, calender position, design issues https://prnt.sc/gvT5kDA_48IP
 2. Renukad  - renukad.360elevate.co/ - Worked on single post page (https://prnt.sc/E-ViL4RPMZk2)
 3. Ken L. - groupplansolutions.ca - Worked on services - https://prnt.sc/nJoBIGi-3_Lm
 
 
-Chinmoy Biswas - Daily Summary: 20/02/202.24
+Chinmoy Biswas - Daily Summary: 20/02/2024
 ===========================================================
 1. Ken L. - groupplansolutions.ca - Fixed See More issues and Formatted Descriptions, Resposive Issues ( https://prnt.sc/kF7zLCMxB4A6, https://prnt.sc/qqYMadIV4tco, https://prnt.sc/4W-hoMj-qG_3 )
+
+Chinmoy Biswas - Daily Summary: 23/02/2024
+===========================================================
+1. Martin S. - platinumpartner.com.au/events - https://prnt.sc/Rah9GAoopStO, https://prnt.sc/7lolH5gFcMl7, https://prnt.sc/3qon4ePaDWeY
+2. Yordanki S. - yordanki.360elevate.co - Custom post type, fields, shop page, single page, wishlist page. https://prnt.sc/bTTkmHS6hTzB, https://prnt.sc/OFgy__HZrh8G, https://prnt.sc/PllTv96elSz0
+3. Matt G. - 
+
+Chinmoy Biswas - Daily Summary: 24/02/2024
+=============================================
+1. Matt G. - unknownlocations.com - Jquery Tags Input Library Update - https://prnt.sc/5n2Igd_8mrNi, https://prnt.sc/-jj68VJkOMSX, - Serarch input error Fixed - https://prnt.sc/BBs5mBepUggr
+2. Ahmed J. - ahmedj.360elevate.co -  Worked on wishlist, Home page issues
+
+Fixed Issues
+https://prnt.sc/CGvPCpExkD9o, https://prnt.sc/0_pnWYDqrIRt, 
+
+Added Wishlist
+https://prnt.sc/5n2Igd_8mrNi
+
+Plugin Research
+https://crocoblock.com/plugins/jetengine/
+https://crocoblock.com/plugins/jetsmartfilters/
+https://crocoblock.com/plugins/jetcomparewishlist/
+
+
+Chinmoy Biswas - Daily Summary: 26/02/2024
+=============================================
+1. Matt G. - unknownlocations.com - Restored Search Template, Removed Spanish Texts Form Home Page https://prnt.sc/qw6CTz_GEo6D, https://prnt.sc/qEFkhz_Tj2xa
+2. Yordanki S. - yordanki.360elevate.co/ - Updated Products page and single page, responsiveness https://prnt.sc/q4Vq_eh01uDY, https://prnt.sc/K4udg-WxaJFL, https://prnt.sc/nK7LdK_N76u7
+3. Ahmed J. - ahmedj.360elevate.co,  Added custom wishlist and add to cart ajax - https://prnt.sc/7hXqN6fBYrYF, https://prnt.sc/VmEonyH8DSvC
+
+Chinmoy Biswas - Daily Summary: 27/02/2024
+=============================================
+1. Ahmed J. - ahmedj.360elevate.co -  Added archive page, filters, brands, single page, header my account - https://prnt.sc/7hXqN6fBYrYF, https://prnt.sc/VmEonyH8DSvC
+2. Matt G. - unknownlocations.com - Fixed input issue on search page - https://prnt.sc/TysGnaU6VUhG, Fixed tooltip cookie issue - https://prnt.sc/7MD4clJtl4UQ
+
+Chinmoy Biswas - Daily Summary: 28/02/2024
+=============================================
+1. Matt G. - unknownlocations.com - Fixed Tag Search In search page - https://prnt.sc/7Mb6onAPV4CQ
+2. Yordanki - yordanki.360elevate.co - Added Custom Slider Plugin - Fixed issues in archieve, single page and wishlist page , https://prnt.sc/3NZs7CmKpaK9, https://prnt.sc/odLHACOWA3ta, https://prnt.sc/4-_6TY15QMq3, https://prnt.sc/Sj8eJQwCNWZt
+
+Chinmoy Biswas - Daily Summary: 29/02/2024
+=============================================
+1. Matt G. - unknownlocations.com - Worked on Search Tags
+2. Simon C - synergyfinancegroup.com -Designed Home Page As per requirements - https://prnt.sc/jeUbHtnAW3l0, https://prnt.sc/29PDwkZO9YRb, https://prnt.sc/3E5gky3Zzf5L, https://prnt.sc/2Wd_NyhZbcN2, https://prnt.sc/4EW7oWGpw21L
+3. Lori W. - loriw.360elevate.co - Worked on Home Page ( Imported Templates and updated Logo and images ) - https://prnt.sc/WO1vBVZYv286, https://prnt.sc/_ZCTesy131vp, https://prnt.sc/O1wCGeu_mwCR, https://prnt.sc/0wBh5ixHIykY, https://prnt.sc/rfGPi32Cn3Dq, https://prnt.sc/NVRKDXy2Hh9p
+4. Donna W-Contact, - donnaw.360elevate.co - Worked on checkout and User Role 
+
+Chinmoy Biswas - Daily Summary: 01/03/2024
+=============================================
+1. Matt G. - unknownlocations.com - 
+2. Simon C - synergyfinancegroup.com -
+3. Lori W. - loriw.360elevate.co - 
+4. Donna W-Contact, - donnaw.360elevate.co - 
+
+
